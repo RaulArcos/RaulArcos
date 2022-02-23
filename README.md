@@ -1,2 +1,5 @@
-### Hey, I'm Raul Arcos, Computer Science Student at UCA and TMT of Electronics at Formula Gades.
+### Hey, I'm Raul Arcos
+
+- Computer Science Student at University of Cádiz
+- TMT of Electronics at Formula Gades
 
