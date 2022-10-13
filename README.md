@@ -1,7 +1,8 @@
 ### Hey, I'm Raul Arcos
 
 - Computer Science Student at University of Cádiz
-- TMT of Electronics at Formula Gades
+- AlumNi Formula Gades
+- Trainee at GTD
 
 ## Skills 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=Black)
