@@ -14,10 +14,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats
-![Raúl Arcos stats](https://github-readme-stats.vercel.app/api?username=RaulArcos&show_icons=true&theme=transparent)
+![Raúl Arcos stats](https://github-readme-stats.vercel.app/api?username=RaulArcos&show_icons=true&theme=transparent&hide_rank=true&)
 
 ## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArcos&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArcos&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats&include_all_commits=true)
 
 ## Contact Me
 <p align="left" >
