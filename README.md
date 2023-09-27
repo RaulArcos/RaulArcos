@@ -15,6 +15,7 @@
 
 ## Stats
 ![Raúl Arcos stats](https://github-readme-stats.vercel.app/api?username=RaulArcos&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)
+![Codewars](https://github.r2v.ch/codewars?user=RaulArcos&stroke=COLOR)
 
 ## Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArcos&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
