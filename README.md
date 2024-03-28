@@ -17,9 +17,6 @@
 ![Raúl Arcos stats](https://github-readme-stats.vercel.app/api?username=RaulArcos&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)
 ![Codewars](https://github.r2v.ch/codewars?user=RaulArcos&stroke=COLOR)
 
-## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArcos&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
-
 ## Contact Me
 <p align="left" >
         <a href="https://www.linkedin.com/in/raularcos/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
