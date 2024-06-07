@@ -1,6 +1,6 @@
 ### Hey, I'm Raul Arcos
 
-- Computer Science Student at University of Cádiz
+- Computer Science Graduate at University of Cádiz
 - AlumNi Formula Gades
 - Software Developer at GTD
 
